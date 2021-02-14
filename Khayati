@@ -1,5 +1,1 @@
-mkdir halaman-github
-cd halaman-github
-echo "hay bee" >> index.html git init
-git add index.html
-git commit -m "first commit"
+Hay sayang
